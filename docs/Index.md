@@ -159,11 +159,7 @@ If you would like to contribute, please see [Participate in development](/pages/
         <img :src="$withBase('/img/link/hutool-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
     </a>
 </span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/Apache-ShenYu/incubator-shenyu" target="_blank">
-        <img :src="$withBase('/img/link/shenyu-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+
 <span style="width: 150px;text-align: left">
     <a href="https://gitee.com/dromara/forest" target="_blank">
         <img :src="$withBase('/img/link/forest-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
@@ -176,10 +172,17 @@ If you would like to contribute, please see [Participate in development](/pages/
 </span>
 
 <span style="width: 150px;text-align: left">
-    <a href="https://dromara.org/" target="_blank">
-        <img :src="$withBase('/img/link/dromara.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    <a href="https://jpom.io/" target="_blank">
+        <img :src="$withBase('/img/link/jpom-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
     </a>
 </span>
+
+<span style="width: 150px;text-align: left">
+    <a href="https://dromara.gitee.io/fast-request/" target="_blank">
+        <img :src="$withBase('/img/link/fast-request-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+
 <span style="width: 150px;text-align: left">
     <a href="https://baomidou.com/" target="_blank">
         <img :src="$withBase('/img/link/mp.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
