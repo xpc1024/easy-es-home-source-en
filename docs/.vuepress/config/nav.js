@@ -10,6 +10,7 @@ module.exports = [
     {
         text: '💫Recommend', items: [
             {text: 'Fitness plan automatic generation system', link: 'https://github.com/xpc1024/plan-all'},
+            {text: 'Vuepress-theme-vdoing', link: 'https://doc.xugaoyi.com/'}
         ]
     },
     {text: 'Gitee', link: 'https://gitee.com/dromara/easy-es'},
