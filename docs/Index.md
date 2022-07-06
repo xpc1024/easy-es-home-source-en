@@ -83,6 +83,11 @@ We are incubated by the Dromara community with a total of more than 100,000 Star
 So, please use it with confidence!
 :::
 
+## Safety
+<a href="https://www.murphysec.com/dr/1hRHmuH0DE3RYL9uE0" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/dromara/easy-es .git.svg?size=small"/></a>
+
+We have connected to Murphy's security scan, and no risk items have been scanned in the ee source code to ensure that humans and animals are harmless! You can use it with confidence. Of course, if you are still worried, we recommend that you download the ee source code and read it yourself before using it. We are 100% open source, so you can see if there is any risk.
+
 <br/>
 
 ## 🎉Thanks
