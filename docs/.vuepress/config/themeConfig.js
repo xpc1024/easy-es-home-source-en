@@ -66,8 +66,8 @@ module.exports = {
         ]
     },
     footer: { // 页脚信息
-        createYear: 2022, // 博客创建年份
-        copyrightInfo: '<a href="https://github.com/xpc1024/">老汉</a> | MIT License', // 博客版权信息，支持a标签
+        createYear: 2021, // 博客创建年份
+        copyrightInfo: '<a href="https://github.com/xpc1024/">老汉</a> | Zhejiang ICP No. 2022020479 | MIT License', // 博客版权信息，支持a标签
     },
     htmlModules
 }
