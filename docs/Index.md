@@ -125,74 +125,121 @@ If you would like to contribute, please see [Participate in development](/pages/
 
 <br/>
 
-## 🧲Links
-<span style="width: 150px;flex:1;text-align: left">
-    <a href="https://gitee.com" target="_blank">
-        <img :src="$withBase('/img/link/gitee-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://www.oschina.net" target="_blank">
-        <img :src="$withBase('/img/link/oschina-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+<style>
+.friends-item {
+  width: 150px;
+  height:40px;
+  flex:1;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+}
 
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/TLog" target="_blank">
-        <img :src="$withBase('/img/link/tlog-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/sa-token" target="_blank">
-        <img :src="$withBase('/img/link/satoken-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/sureness" target="_blank">
-        <img :src="$withBase('/img/link/sureness-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+.friends-item-img {
+  object-fit: contain;
+  max-width:150px !important;
+  height: 100%;
+}
+</style>
 
-<span style="width: 150px;text-align: left">
-    <a href="https://liteflow.yomahub.com/" target="_blank">
-        <img :src="$withBase('/img/link/lite-flow.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+## 🤝 Projects of Dromara
 
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/hutool" target="_blank">
-        <img :src="$withBase('/img/link/hutool-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+<p align="center">
+<b><a href="https://dromara.org/zh/projects/" target="_blank">In order to go to the sage, one person may be able to go faster, but a group of people will go further.</a></b>
+</p>
 
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/forest" target="_blank">
-        <img :src="$withBase('/img/link/forest-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/MaxKey" target="_blank">
-        <img :src="$withBase('/img/link/maxkey-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+<p >
+<a class="friends-item" href="https://hutool.cn/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/hutool2.png')" alt="🍬小而全的Java工具类库，使Java拥有函数式语言般的优雅，让Java语言也可以“甜甜的”。">
+</a>
+<a class="friends-item" href="https://sa-token.dev33.cn/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/sa-token.png')" alt="一个轻量级 java 权限认证框架，让鉴权变得简单、优雅！">
+</a>
+<a class="friends-item" href="https://liteflow.yomahub.com/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/liteflow2.png')" alt="轻量，快速，稳定，可编排的组件式流程引擎">
+</a>
+<a class="friends-item" href="https://jpom.top/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/jpom.png')" alt="一款简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件">
+</a>
+<a class="friends-item" href="https://gitee.com/dromara/TLog" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/tlog2.png')" alt="一个轻量级的分布式日志标记追踪神器，10分钟即可接入，自动对日志打标签完成微服务的链路追踪">
+</a>
+<a class="friends-item" href="https://easy-es.cn/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/easy-es2.png')" alt="🚀傻瓜级ElasticSearch搜索引擎ORM框架">
+</a>
+<a class="friends-item" href="https://gitee.com/dromara/hmily" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/hmily.png')" alt="高性能一站式分布式事务解决方案。">
+</a>
+<a class="friends-item" href="https://gitee.com/dromara/Raincat" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/raincat.png')" alt="强一致性分布式事务解决方案。">
+</a>
+<a class="friends-item" href="https://gitee.com/dromara/myth" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/myth.png')" alt="可靠消息分布式事务解决方案。">
+</a>
+<a class="friends-item" href="https://cubic.jiagoujishu.com/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/cubic.png')" alt="一站式问题定位平台，以agent的方式无侵入接入应用，完整集成arthas功能模块，致力于应用级监控，帮助开发人员快速定位问题">
+</a>
+<a class="friends-item" href="http://forest.dtflyx.com/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/forest-logo.png')" alt="Forest能够帮助您使用更简单的方式编写Java的HTTP客户端" nf>
+</a>
+<a class="friends-item" href="https://su.usthe.com/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/sureness.png')" alt="面向 REST API 的高性能认证鉴权框架">
+</a>
+<a class="friends-item" href="https://gitee.com/dromara/northstar" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/northstar_logo.png')" alt="Northstar盈富量化交易平台">
+</a>
+<a class="friends-item" href="https://www.jeesuite.com/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/mendmix.png')" alt="开源分布式云原生架构一站式解决方案">
+</a>
+<a class="friends-item" href="https://www.x-easypdf.cn" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/koalas-rpc2.png')" alt="企业生产级百亿日PV高可用可拓展的RPC框架。">
+</a>
+<a class="friends-item" href="https://dynamictp.cn/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/dynamic-tp.png')" alt="🔥🔥🔥 基于配置中心的轻量级动态可监控线程池">
+</a>
+<a class="friends-item" href="https://hertzbeat.com/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/hertzbeat_brand.jpg')" alt="易用友好的云监控系统">
+</a>
+<a class="friends-item" href="https://maxkey.top/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/maxkey.png')" alt="业界领先的身份管理和认证产品">
+</a>
+<a class="friends-item" href="https://plugins.sheng90.wang/fast-request/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/fast-request.png')" alt="Idea 版 Postman，为简化调试API而生">
+</a>
+<a class="friends-item" href="https://async.sizegang.cn/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/gobrs-async.png')" alt="🔥 配置极简功能强大的异步任务动态编排框架">
+</a>
+<a class="friends-item" href="https://www.x-easypdf.cn" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/x-easypdf.png')" alt="一个用搭积木的方式构建pdf的框架（基于pdfbox）">
+</a>
+<a class="friends-item" href="http://dromara.gitee.io/image-combiner" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/image-combiner.png')" alt="一个专门用于图片合成的工具，没有很复杂的功能，简单实用，却不失强大">
+</a>
+<a class="friends-item" href="https://www.herodotus.cn/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/dante-cloud2.png')" alt="Dante-Cloud 是一款企业级微服务架构和服务能力开发平台。">
+</a>
+<a class="friends-item" href="https://dromara.org/zh/projects/" target="_blank">
+	<img class="no-zoom friends-item-img" :src="$withBase('/img/friends/link/dromara.png')" alt="让每一位开源爱好者，体会到开源的快乐。">
+</a>
 
-<span style="width: 150px;text-align: left">
-    <a href="https://jpom.io/" target="_blank">
-        <img :src="$withBase('/img/link/jpom-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-
-<span style="width: 150px;text-align: left">
-    <a href="https://dromara.gitee.io/fast-request/" target="_blank">
-        <img :src="$withBase('/img/link/fast-request-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-
-<span style="width: 150px;text-align: left">
-    <a href="https://baomidou.com/" target="_blank">
-        <img :src="$withBase('/img/link/mp.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
+## 🧲 LINKS
+<div class="friends-item">
+  <span style="width: 150px;flex:1;text-align: left">
+      <a href="https://gitee.com" target="_blank">
+          <img :src="$withBase('/img/external/gitee-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://www.oschina.net" target="_blank">
+          <img :src="$withBase('/img/external/oschina-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://baomidou.com/" target="_blank">
+          <img :src="$withBase('/img/external/mp.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+</div>
 
 <!-- AD -->
 <div class="wwads-cn wwads-horizontal page-wwads" data-id="174"></div>

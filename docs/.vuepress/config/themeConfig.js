@@ -7,10 +7,11 @@ module.exports = {
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
     searchMaxSuggestions: 10, // 搜索结果显示最大数
-    lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
+    lastUpdated: 'Last update', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
 
     docsRepo: "xpc1024/easy-es-home-source-en",
     docsDir: 'docs', // 编辑的文件夹
+    docsBranch: 'main',
     editLinks: true, // 编辑链接
     editLinkText: 'Help us improve this document',
 
