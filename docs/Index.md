@@ -62,7 +62,7 @@ postList: none
 <dependency>
     <groupId>cn.easy-es</groupId>
     <artifactId>easy-es-boot-starter</artifactId>
-    <version>Latest Version</version>
+    <version>${Latest Version}</version>
 </dependency>
 ```
 
@@ -84,10 +84,9 @@ So, please use it with confidence!
 :::
 
 ## Safety
-<a href="https://www.murphysec.com/dr/1hRHmuH0DE3RYL9uE0" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/dromara/easy-es .git.svg?size=small"/></a>
+<a href="https://www.murphysec.com/dr/htY0sMYDQaDn4X8iXp" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/dromara/easy-es.git.svg?size=small"/></a>
 
-We have connected to Murphy's security scan, and no risk items have been scanned in the ee source code to ensure that humans and animals are harmless! You can use it with confidence. Of course, if you are still worried, we recommend that you download the ee source code and read it yourself before using it. We are 100% open source, so you can see if there is any risk.
-
+We have connected to the [OSCS Murphy security scan](https://www.murphysec.com/dr/htY0sMYDQaDn4X8iXp), and no risk items have been scanned in the ee source code, exceeding 100% of the projects, ensuring that humans and animals are harmless! (For details, click the icon above to view) You can use it with confidence. Of course, if you are still worried, we recommend that you download the ee source code and read it yourself before using it. We are 100% open source, and you can see if there is any risk.
 <br/>
 
 ## 🎉Thanks
