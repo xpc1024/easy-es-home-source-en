@@ -78,7 +78,7 @@ to whom. For open source projects to develop for a long time, the quality of the
 
 ## What I want to say to the Committer
 
-When you are familiar with the code + complete an issue and merge it into the master branch, I will invite you to become the Committer of LiteFlow, usually before the release.
+When you are familiar with the code + complete an issue and merge it into the master branch, I will invite you to become the Committer of Easy-Es, usually before the release.
 
 Although in principle only one issue needs to be completed, the difficulty of the issue itself is also different, but I hope that you as a contributor will not be satisfied with submitting only one issue, I hope
 
