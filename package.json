@@ -6,13 +6,15 @@
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
     "updateTheme": "yarn remove vuepress-theme-vdoing && rm -rf node_modules && yarn && yarn add vuepress-theme-vdoing -D",
-    "editFm": "node utils/editFrontmatter.js"
+    "editFm": "node utils/editFrontmatter.js",
+    "postinstall": "patch-package"
   },
   "license": "MIT",
   "devDependencies": {
     "dayjs": "^1.9.7",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
+    "patch-package": "^6.4.7",
     "vuepress": "^1.9.7",
     "vuepress-plugin-baidu-tongji": "^1.0.1",
     "vuepress-plugin-demo-block": "^0.7.2",
@@ -23,20 +25,24 @@
     "vuepress-theme-vdoing": "^1.11.2",
     "yamljs": "^0.3.0"
   },
-  "description": "Easy-Es官网",
+  "dependencies": {
+    "core-js": "2.x",
+    "element-ui": "^2.15.9"
+  },
+  "description": "Easy-Es home pages",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xpc1024/easy-es-home-pages.git"
+    "url": "git+https://github.com/xpc1024/easy-es-home-source-en.git"
   },
-  "author": "老汉",
+  "author": "Laohan",
   "bugs": {
-    "url": "https://github.com/xpc1024/easy-es-home-pages/issues"
+    "url": "https://github.com/xpc1024/easy-es-home-source-en/issues"
   },
-  "homepage": "https://github.com/xpc1024/easy-es-home-pages#readme",
+  "homepage": "https://github.com/xpc1024/easy-es-home-source-en#readme",
   "keywords": [
     "easy-es"
   ]

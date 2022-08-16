@@ -6,6 +6,7 @@ tagline: 🚀Easier to use elasticsearch framework
 actionText: Quick Start →
 actionLink: /pages/4ad5f3/
 bannerBg: /img/back.png # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+defaultMode: dark
 
 features: # 可选的
   - title: Lightweight and powerful
