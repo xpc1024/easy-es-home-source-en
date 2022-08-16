@@ -82,6 +82,6 @@ When you are familiar with the code + complete an issue and merge it into the ma
 
 Although in principle only one issue needs to be completed, the difficulty of the issue itself is also different, but I hope that you as a contributor will not be satisfied with submitting only one issue, I hope
 
-You can become a long-term Committer and participate in the iteration, development and decision-making discussions of the LiteFlow framework. Only in this way can open source frameworks develop more
+You can become a long-term Committer and participate in the iteration, development and decision-making discussions of the Easy-Es framework. Only in this way can open source frameworks develop more
 
 To flourish, open source will also serve as a way for you to grow and improve your technology.
