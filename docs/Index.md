@@ -223,7 +223,7 @@ If you would like to contribute, please see [Participate in development](/pages/
 </a>
 
 ## 🧲 LINKS
-<div class="friends-item">
+<div>
   <span style="width: 150px;flex:1;text-align: left">
       <a href="https://gitee.com" target="_blank">
           <img :src="$withBase('/img/external/gitee-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
