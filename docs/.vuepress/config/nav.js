@@ -1,6 +1,6 @@
 module.exports = [
-    {text: 'Home', link: '/'},
-    {text: 'Doc', link: '/pages/4ad5f3/'},
+    {text: '💋Home', link: '/'},
+    {text: '🔞Doc', link: '/pages/4ad5f3/'},
     {text: '💖Support', link: '/pages/fb291d/'},
     {text: '🌻Ecology', link: '/pages/10wa9d/'},
     {text: '🚀About', link: '/pages/52wa9d/'},
