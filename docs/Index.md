@@ -44,7 +44,7 @@ postList: none
 ```yaml
 - name: Eoapi
   desc: Open source API management tool, interface documentation, interface testing, Mock...
-  avatar: /img/sponsor/eoApi-logo.png
+  avatar: /img/sponsor/eoapi-logo.jpg
   link: https://docs.eoapi.io/?utm_source=ZZ090201
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
