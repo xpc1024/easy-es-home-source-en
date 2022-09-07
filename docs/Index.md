@@ -21,11 +21,12 @@ postList: none
 ---
 
 <br/>
-<br/>
 
 <p align="center">
   <a class="become-sponsor" href="/pages/fb291d/">support this project</a>
 </p>
+
+<br/>
 
 <style>
 .become-sponsor{
