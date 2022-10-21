@@ -13,7 +13,9 @@ permalink: /pages/52wc9d/
 |[Wuhan World Health Expo Online Platform Management Co., Ltd.](https://www.hbwhexpo.com/)| ![Wuhan World Health Expo Online Platform Management Co., Ltd.](/img/users/sjdjk.png) |[Save on everything Co., Ltd.](https://www.msmds.cn) |![Save on everything Co., Ltd.](/img/users/zckj.png) |
 |[Henan Linqugui Intelligent Technology Co., Ltd.](https://linqugui.com)| ![Henan Linqugui Intelligent Technology Co., Ltd.](/img/users/lqzn.png) |[360](360 exam collection) |![360 exam collection](/img/users/ksbd.png) |
 |[RuoYi-Cloud-Plus](https://gitee.com/JavaLionLi/RuoYi-Cloud-Plus)| ![RuoYi-Cloud-Plus](/img/users/rycp.png) |[Same screen as Shandong Technology Co., Ltd.](https://www.daxiaotongping.com)|![Shandong Daxiaotongping Technology Co., Ltd.](/img/users/dxtp.png)|
-|[Shanghai Changzhi Network Technology Co., Ltd.](https://www.ldplayer.net/)| ![Shanghai Changzhi Network Technology Co., Ltd.](/img/users/shczwlkj.png) |||
+|[Shanghai Changzhi Network Technology Co., Ltd.](https://www.ldplayer.net/)| ![Shanghai Changzhi Network Technology Co., Ltd.](/img/users/shczwlkj.png) |[Parallel Universe Software Developer Network](https://www.pusdn.com/)|![Parallel Universe Software Developer Network](/img/users/pxyz.png)|
+|[Beijing Zhaoxin Software Technology Co., Ltd](https://www.jeesing.com/)|![Beijing Zhaoxin Software Technology Co., Ltd](/img/users/bjzx.png) |||
+
 :::tip registration
 
 In order to provide you with better services, if your company uses [Easy-Es](https://easy-es.cn/) in the project, it is recommended that you [register](https://gitee.com /dromara/easy-es/issues/I5BKHI)
