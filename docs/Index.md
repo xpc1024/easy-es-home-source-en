@@ -46,7 +46,7 @@ postList: none
 - name: Eoapi
   desc: Open source API management tool, interface documentation, interface testing, Mock...
   avatar: /img/sponsor/eoapi-logo.jpg
-  link: https://docs.eoapi.io/?utm_source=ZZ090201
+  link: https://www.eoapi.io/?utm_source=sponsor&utm_campaign=s-easyes
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
 ```
