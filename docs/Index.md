@@ -49,6 +49,13 @@ postList: none
   link: https://www.eoapi.io/?utm_source=sponsor&utm_campaign=s-easyes
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
+  
+- name: AgileBPM
+  desc: Fast, concise and powerful low code workflow development platform...
+  avatar: /img/sponsor/agile-logo.png
+  link: https://www.tongzhouyun.com/
+  bgColor: '#FFB6C1'
+  textColor: '#FFFFFF'
 ```
 :::
 
@@ -117,7 +124,7 @@ We have connected to the [OSCS Murphy security scan](https://www.murphysec.com/d
 
 ## 🎉Thanks
 
-Easy-Es has gained support from many people since it was open sourced in 2021. At present, there are more than 500 people in the community group answering questions, and the harvest of Star exceeds 2K. Although this is not a lot, it is already excellent for a tool with high threshold and low frequency use such as ES, and it has been open source for less than half a year.
+Easy-Es has gained support from many people since it was open sourced in 2021. At present, there are more than 1000 people in the community group answering questions, and the harvest of Star exceeds 3K. Although this is not a lot, it is already excellent for a tool with high threshold and low frequency use such as ES, and it has been open source for less than one year.
 
 This is inseparable from the support and opinions of the community partners and PR, thank you! We will adhere to the concept of "leave simplicity, ease of use, convenience to users, and leave complexity to the framework", and strive to achieve "making the world easy to use." The ES" vision, continue to forge ahead!
 
