@@ -51,7 +51,7 @@ postList: none
   textColor: '#FFFFFF'
   
 - name: AgileBPM
-  desc: Fast, concise and powerful low code workflow development platform...
+  desc: Fast, concise, reliable and powerful low code workflow development platform...
   avatar: /img/sponsor/agile-logo.png
   link: https://www.tongzhouyun.com/
   bgColor: '#FFB6C1'
