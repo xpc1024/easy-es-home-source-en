@@ -20,7 +20,7 @@ permalink: /pages/52wc9d/
 
 In order to provide you with better services, if your company uses [Easy-Es](https://easy-es.cn/) in the project, it is recommended that you [register](https://gitee.com /dromara/easy-es/issues/I5BKHI)
 
-[Easy-Es official website](https://easy-es.cn/) has about 20W+ page views per month, which can bring free and a lot of exposure to your company
+[Easy-Es official website](https://easy-es.cn/) has about 25W+ page views per month, which can bring free and a lot of exposure to your company
 
 Booth resources are limited, first come first served, no matter the size of the company, the order is based on the submission time in the issue, the earlier the submission, the higher the ranking
 
