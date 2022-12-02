@@ -236,6 +236,9 @@ If you would like to contribute, please see [Participate in development](/pages/
     <a href="https://jpom.io/" target="_blank" style="width:15%; padding:10px 5px 10px 5px;display:inline-block">
         <img style="height:40px;" :src="$withBase('/img/link/jpom-logo.png')" class="no-zoom" title="A simple and light low-intrusive Online construction, automatic deployment, daily operation and maintenance, project monitoring software">
     </a>
+    <a href="https://gitee.com/dromara/go-view" target="_blank" style="width:15%;  padding:10px 5px 10px 5px;display:inline-block">
+        <img style="height:40px;" :src="$withBase('/img/link/goview-logo.png')" class="no-zoom" title="Let every open source enthusiast experience the happiness of open source">
+    </a>
 </div>
 
 <br/>
