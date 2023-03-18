@@ -3,10 +3,14 @@ home: true
 heroImage: /img/logo.svg
 
 tagline: 🚀Easier to use elasticsearch framework
-actionText: Quick Start →
-actionLink: /pages/4ad5f3/
+actions:
+- actionText: 🚀Quick Start →
+  actionLink: /pages/4ad5f3/
+- actionText: ❥(^_-)Support for Love
+  actionLink: https://afdian.net/a/easy-es
+  actionClass: action-button-easyes
 bannerBg: /img/back.png # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
-defaultMode: dark
+defaultMode: light
 
 features: # 可选的
   - title: Lightweight and powerful
@@ -17,13 +21,21 @@ features: # 可选的
     details: Automatic index hosting, automatic paging, fool-level CRUD, highlighting, weighting, aggregation, IP, GEO, parent-child, nested, everything.
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
+
 postList: none
+notices: # 可选的
+    - id: Easy-Es-2.0.0-beta1
+      title: 🚀 Easy-Es v2.0.0-beta1 published！
+      content: '<div><p>2023-03</p><ul><li>Four nested query support</li><li>More than 20 optimization</li><li>bug fix</li></ul></div><p style="text-align: right;"><a href="/pages/2934a3/">View details</a></p>'
+      isHtmlContent: true
 ---
+<Notice :data="$frontmatter.notices"/>
+
 
 <br/>
 
 <p align="center">
-  <a class="become-sponsor" href="/pages/fb291d/">support this project</a>
+  <a class="become-sponsor" href="/pages/fb291d/">Be a sponsor</a>
 </p>
 
 <br/>
@@ -290,7 +302,21 @@ If you would like to contribute, please see [Participate in development](/pages/
   }
 </style>
 
-
+<style lang="stylus">
+.action-button-easyes
+    margin-left 0.5rem
+    display inline-block
+    font-size 1.2rem
+    background-color #FFCCCC
+    padding 0.8rem 1.6rem
+    border-radius 4px
+    transition background-color 0.1s ease
+    box-sizing border-box
+    border-bottom 1px solid #A63939
+    color #000000
+    &:hover
+        background-color lighten(#FF99CC, 10%)
+</style>
 
 
 

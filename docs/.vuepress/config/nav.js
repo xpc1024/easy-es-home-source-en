@@ -1,11 +1,36 @@
 module.exports = [
     {text: '💋Home', link: '/'},
-    {text: '🔞Doc', link: '/pages/4ad5f3/'},
+    {
+        text: '🔞Doc', link: '/pages/7ead0d/', items: [
+            {text: 'v2.0.0-beta1(current version)', link: '/pages/7ead0d/'},
+            {
+                text: 'What\'s New', items: [
+                    {text: 'What\' s New In Easy-Es v2.0.0-beta1?', link: '/pages/2934a3/'},
+                ]
+            },
+            {
+                text: 'history version', items: [
+                    {text: 'v1.x.x', link: '/pages/v1.x/4ad5f3/'}
+                ]
+            },
+            {
+                text: 'Upgrade guide', items: [
+                    {text: 'Upgrade to 2.x.x instructions', link: '/pages/dfd970/'}
+                ]
+            },
+        ]
+    },
     {text: '💖Support', link: '/pages/fb291d/'},
     {text: '🌻Ecology', link: '/pages/10wa9d/'},
-    {text: '🚀About', link: '/pages/52wa9d/'},
+    {
+        text: '🚀About project', items: [
+            {text: 'Project introduction', link: '/pages/55wa9d/'},
+            {text: 'Project members', link: '/pages/74d5ef/'},
+            {text: 'PR', link: '/pages/52de9d/'}
+        ]
+    },
     {text: 'Join', link: '/pages/52wa3b/'},
-    {text: 'PR', link: '/pages/52de9d/'},
+
     {text: 'Customer', link: '/pages/52wc9d/'},
     {
         text: '💫Recommend', items: [
