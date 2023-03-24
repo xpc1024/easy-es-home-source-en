@@ -179,4 +179,19 @@ The 22nd graduating class
 
 <br/>
 
+:::note Personal introduction
+::: cardList
+```yaml
+- name: javalover123
+  desc: Easy-Es Community Developer <br/> <br/> Wechat:275701726
+  avatar: /img/members/member.jpg
+  link: https://blog.csdn.net/javalover123888
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+The ability of the prospective older lion, run a half-marathon, the full horse to try?
+
+<br/>
+
 
