@@ -72,7 +72,7 @@ notices: # 可选的
 - name: MaxKey
   desc: Industry leading, secure, reliable identity management and single sign on products...
   avatar: /img/sponsor/maxkey-logo.jpg
-  link: https://maxkey.top/
+  link: http://maxkey.top/
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
 ```
@@ -215,7 +215,7 @@ If you would like to contribute, please see [Participate in development](/pages/
     <a href="https://gitee.com/dromara/northstar" target="_blank" style="width:15%; padding:10px 5px 10px 5px;display:inline-block">
         <img style="height:40px;" :src="$withBase('/img/link/northstar-logo.png')" class="no-zoom" title="Northstar Quantitative Trading Platform">
     </a>
-    <a href="https://maxkey.top/" target="_blank" style="width:15%; height:40px; padding:10px 5px 10px 5px;display:inline-block">
+    <a href="http://maxkey.top/" target="_blank" style="width:15%; height:40px; padding:10px 5px 10px 5px;display:inline-block">
         <img style="height:40px;" :src="$withBase('/img/link/maxkey-logo.png')" class="no-zoom" title="Industry-leading identity management and authentication products" >
     </a>
     <a href="https://www.herodotus.cn/" target="_blank" style="width:15%; padding:10px 5px 10px 5px;display:inline-block">
