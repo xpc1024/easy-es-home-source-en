@@ -24,8 +24,8 @@ features: # 可选的
 
 postList: none
 notices: # 可选的
-    - id: Easy-Es-2.0.0-beta1
-      title: 🚀 Easy-Es v2.0.0-beta1 published！
+    - id: Easy-Es-2.0.0-beta
+      title: 🚀 Easy-Es v2.0.0-beta published！
       content: '<div><p>2023-03</p><ul><li>Four nested query support</li><li>More than 20 optimization</li><li>bug fix</li></ul></div><p style="text-align: right;"><a href="/pages/2934a3/">View details</a></p>'
       isHtmlContent: true
 ---
@@ -104,7 +104,7 @@ notices: # 可选的
 
 ```xml
 <dependency>
-    <groupId>cn.easy-es</groupId>
+    <groupId>org.dromara.easy-es</groupId>
     <artifactId>easy-es-boot-starter</artifactId>
     <version>${Latest Version}</version>
 </dependency>
@@ -113,7 +113,7 @@ notices: # 可选的
 **Gradle:**
 
 ```groovy
-compile group: 'cn.easy-es', name: 'easy-es-boot-starter', version: 'Latest Version'
+compile group: 'org.dromara.easy-es', name: 'easy-es-boot-starter', version: 'Latest Version'
 ```
 
 <br/>
