@@ -207,3 +207,31 @@ The ability of the prospective older lion, run a half-marathon, the full horse t
 Grill master and binomial tree
 
 <br/>
+
+:::note Personal introduction
+::: cardList
+```yaml
+- name: Fan.Chu
+  desc: Easy-Es Community Developer <br/> <br/> Mail:277662410@qq.com
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+Code without bugs is not perfect!
+
+<br/>
+
+:::note Personal introduction
+::: cardList
+```yaml
+- name: Liujie.Wang
+  desc: Easy-Es Community Developer <br/> <br/> Phone:18626886664
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+Workers, have you jerked the code today?
+
+<br/>
