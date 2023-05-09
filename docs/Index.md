@@ -6,7 +6,7 @@ tagline: 🚀Easier to use elasticsearch framework
 actions:
 - actionText: 🚀Quick Start →
   actionLink: /pages/4ad5f3/
-- actionText: ❥(^_-)Support for Love
+- actionText: 💘Support for Love
   actionLink: https://afdian.net/a/easy-es
   actionClass: action-button-easyes
 bannerBg: /img/back.png # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
@@ -305,9 +305,10 @@ If you would like to contribute, please see [Participate in development](/pages/
 <style lang="stylus">
 .action-button-easyes
     margin-left 0.5rem
+    margin-top 0.5rem
     display inline-block
     font-size 1.2rem
-    background-color #FFCCCC
+    background-color #FFB6C1
     padding 0.8rem 1.6rem
     border-radius 4px
     transition background-color 0.1s ease
@@ -315,7 +316,7 @@ If you would like to contribute, please see [Participate in development](/pages/
     border-bottom 1px solid #A63939
     color #000000
     &:hover
-        background-color lighten(#FF99CC, 10%)
+        background-color lighten(#FFB6C1, 10%)
 </style>
 
 
