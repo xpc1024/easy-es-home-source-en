@@ -16,7 +16,7 @@ permalink: /pages/52wc9d/
 |[Shanghai Changzhi Network Technology Co., Ltd.](https://www.ldplayer.net/) |[Parallel Universe Software Developer Network](https://www.pusdn.com/) |
 |[Beijing Zhaoxin Software Technology Co., Ltd.](https://www.jeesing.com/) |[Beijing Netladder Technology Development Co., Ltd.](https://www.whaty.com/cms/) |
 |[Hangzhou Yingshi Digital Technology Co., Ltd.](http://www.ys7data.com/) |[Unkwon Information Technology Co., Ltd.](unkwon) |
-|[Henan Water Conservancy Survey and Design Research Co., Ltd.](https://www.ysy.com.cn) |[Shandong Liancheng Network Technology Co., Ltd., Shandong Big and Small Screen Software Technology Co., Ltd.](https://www. daxiaotongping.com/) |
+|[Henan Water Conservancy Survey and Design Research Co., Ltd.](https://www.ysy.com.cn) |[Shandong Liancheng Network Technology Co., Ltd]() |
 |[Hunan Anyu Health Technology Co., Ltd.](http://www.auprty.com/) |[Shanghai Xiju Lianmeng Digital Creative Co., Ltd.](http://www.cgugc.com/) |
 |[Shandong Dingxia Intelligent Technology Co., Ltd.](https://dx-sec.com/) |[Fujian Gugeer Network Technology Co., Ltd.](https://fjgge.com/) |
 |[Guangzhou Difan Brand Management Co., Ltd. (Han Xiaoxiong stroller)]() |[Natural Resources Center](https://search.cgsi.cn/swzxDrill/map) |
