@@ -34,7 +34,10 @@ permalink: /pages/52wc9d/
 |[Henan Weichaoxi Information Technology Co., Ltd.](http://www.weichaoxi.com/) |[Chengdu Lingdong Imagination Network Technology Co., Ltd.](http://www.wenliao.fun/) |
 |[Jiangsu Zhuoheng Information Technology Development Co., Ltd.]() |[Jilin Donghu Technology Co., Ltd.](http://www.donhoo.com.cn/) |
 |[Guizhou Fantian Technology Co., Ltd.]() |[Nanjing Yinfeifeng Cloud Technology Co., Ltd.]() |
-
+|[Quanzhou Wu se Shen Niu]()                                            |[Beijing net ladder science and technology development co., ltd](https://www.whaty.com)                                                            |
+|[Guangzhou lianxin information technology co., ltd]()                                                |[Suzhou industry park guke network technology co., ltd]()                                                            |
+|[Suzhou Zhiyi information technology]()                                                       |[Hebei zhewei technology co., ltd]()                                                            |
+|[Intelligent Chuanghe Information Technology Co., Ltd.]()                                              |[Shanghai Qiming Software Company Limited]()
 :::tip Registration
 
 In order to better establish an open source mutual trust system, if your company uses [Easy-Es](https://easy-es.cn/) in your project, it is recommended that you [register](https://gitee.com /dromara/easy-es/issues/I71MUT)
