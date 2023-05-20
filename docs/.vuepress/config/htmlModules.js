@@ -31,8 +31,8 @@ module.exports = {
     <a href="http://maxkey.top/" target="_blank">
       <img class="no-zoom" height="60" width="224" src="/img/sponsor/maxkey.png">
     </a>    
-    <a href="https://gpt4u.top" target="_blank">
-      <img class="no-zoom" height="60" width="224" src="/img/sponsor/gpt4u.png">
+    <a href="https://ai4u.cloud" target="_blank">
+      <img class="no-zoom" height="60" width="224" src="/img/sponsor/ai4u.jpg">
     </a>                  
   `,
   // 万维广告
