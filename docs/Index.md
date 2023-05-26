@@ -75,6 +75,13 @@ notices: # 可选的
   link: http://maxkey.top/
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
+
+- name: MingDao Cloud
+  desc: Quickly respond to business needs, from "IT backstabber" to "IT hero"
+  avatar: /img/sponsor/mingdao-logo.jpg
+  link: https://www.mingdao.com/
+  bgColor: '#00BFFF'
+  textColor: '#FFFFFF'
 ```
 :::
 
@@ -136,9 +143,9 @@ So, please use it with confidence!
 ## Safety
 <a href="https://www.murphysec.com/dr/htY0sMYDQaDn4X8iXp" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/dromara/easy-es.git.svg?size=small"/></a>
 
-We have connected to the [OSCS Murphy security scan](https://www.murphysec.com/dr/htY0sMYDQaDn4X8iXp), and no risk items have been scanned in the ee source code, exceeding 100% of the projects, ensuring that humans and animals are harmless! (For details, click the icon above to view) You can use it with confidence. Of course, if you are still worried, we recommend that you download the ee source code and read it yourself before using it. We are 100% open source, and you can see if there is any risk.
-
+We have connected to the OSCS Murphy security scan, and no risk items have been scanned in the ee source code, exceeding 100% of the projects, ensuring that humans and animals are harmless! (For details, click the icon above to view) You can use it with confidence. Of course, if you are still worried, we recommend that you download the ee source code and read it yourself before using it. We are 100% open source, and you can see if there is any risk.
 <br/>
+<a href="https://www.murphysec.com/dr/htY0sMYDQaDn4X8iXp" alt="OSCS Status"><img class="no-zoom" src="https://www.oscs1024.com/platform/badge/dromara/easy-es.git.svg?size=large"/></a>
 <br/>
 
 ## 🎉Thanks
@@ -271,6 +278,11 @@ If you would like to contribute, please see [Participate in development](/pages/
   <span style="width: 150px;text-align: left">
       <a href="https://baomidou.com/" target="_blank">
           <img :src="$withBase('/img/external/mp.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://www.mingdao.com/" target="_blank">
+          <img :src="$withBase('/img/external/md.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>
