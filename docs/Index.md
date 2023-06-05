@@ -79,8 +79,8 @@ notices: # 可选的
 - name: MingDao Cloud
   desc: Quickly respond to business needs, from "IT backstabber" to "IT hero"
   avatar: /img/sponsor/mingdao-logo.jpg
-  link: https://www.mingdao.com/
-  bgColor: '#00BFFF'
+  link: https://www.mingdao.com?s=utm_67&utm_source=easy-es&utm_medium=banner&utm_campaign=IT%E7%BD%91%E7%AB%99&utm_content=IT%E8%B5%8B%E8%83%BD%E4%B8%9A%E5%8A%A1
+  bgColor: '#1E90FF'
   textColor: '#FFFFFF'
 ```
 :::
@@ -281,7 +281,8 @@ If you would like to contribute, please see [Participate in development](/pages/
       </a>
   </span>
   <span style="width: 150px;text-align: left">
-      <a href="https://www.mingdao.com/" target="_blank">
+            <a href="https://www.mingdao.com?s=utm_68&utm_source=easy-es&utm_medium=referral&utm_campaign=friendLink&utm_content=website_footer
+" target="_blank">
           <img :src="$withBase('/img/external/md.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
