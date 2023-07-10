@@ -1,10 +1,10 @@
 ---
-title: Ecology
+title: OS Community
 date: 2023-03-18 10:00:00
 permalink: /pages/10wa9d/
 ---
 
-Easy-Es was incubated by Dromara, a well-known open source organization in China.
+Easy-Es is one of the top projects hatched by Dromara, a well-known domestic open source organization.
 
 About Dromara
 ---

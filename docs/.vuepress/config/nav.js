@@ -2,10 +2,10 @@ module.exports = [
     {text: '💋Home', link: '/'},
     {
         text: '🔞Doc', link: '/pages/7ead0d/', items: [
-            {text: 'v2.0.0-beta2(current version)', link: '/pages/7ead0d/'},
+            {text: 'v2.0.0-beta3(current version)', link: '/pages/7ead0d/'},
             {
                 text: 'What\'s New', items: [
-                    {text: 'What\' s New In Easy-Es v2.0.0-beta1?', link: '/pages/2934a3/'},
+                    {text: 'What\' s New In Easy-Es v2.0.0-betaX?', link: '/pages/2934a3/'},
                 ]
             },
             {
@@ -21,9 +21,15 @@ module.exports = [
         ]
     },
     {text: '💖Support', link: '/pages/fb291d/'},
-    {text: '🌻Ecology', link: '/pages/10wa9d/'},
+    {text: '🌻Ecology', items: [
+            {text: 'OS Community',link: '/pages/10wa9d/'},
+            {text: 'Recommend Goods',link: '/pages/1a810c/'}
+
+        ]
+    },
     {
         text: '🚀About project', items: [
+            {text: 'Project PPT',link: 'https://iknow.hs.net/adc19432-ed67-4afc-a337-89cea135165e.pptx'},
             {text: 'Project introduction', link: '/pages/55wa9d/'},
             {text: 'Project members', link: '/pages/74d5ef/'},
             {text: 'PR', link: '/pages/52de9d/'}

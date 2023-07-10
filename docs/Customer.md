@@ -38,6 +38,7 @@ permalink: /pages/52wc9d/
 |[Guangzhou lianxin information technology co., ltd]()                                                |[Suzhou industry park guke network technology co., ltd]()                                                            |
 |[Suzhou Zhiyi information technology]()                                                       |[Hebei zhewei technology co., ltd]()                                                            |
 |[Intelligent Chuanghe Information Technology Co., Ltd.]()                                              |[Shanghai Qiming Software Company Limited]()
+|[Ningbo Qishan technology co., ltd](https://www.bgniao.cn/)                              |[Xiangxun Technology (Shanghai) Co., Ltd.](https://www.anycase.cn/)
 :::tip Registration
 
 In order to better establish an open source mutual trust system, if your company uses [Easy-Es](https://easy-es.cn/) in your project, it is recommended that you [register](https://gitee.com /dromara/easy-es/issues/I71MUT)

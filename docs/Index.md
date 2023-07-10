@@ -25,8 +25,8 @@ features: # 可选的
 postList: none
 notices: # 可选的
     - id: Easy-Es-2.0.0-beta
-      title: 🚀 Easy-Es v2.0.0-beta published！
-      content: '<div><p>2023-03</p><ul><li>Four nested query support</li><li>More than 20 optimization</li><li>bug fix</li></ul></div><p style="text-align: right;"><a href="/pages/2934a3/">View details</a></p>'
+      title: 🚀 Easy-Es v2.0.0-betaX published！
+      content: '<div><p>2023-07</p><ul><li>v2.0.0-beta1</li><li>v2.0.0-beta2</li><li>v2.0.0-beta3</li></ul></div><p style="text-align: right;"><a href="/pages/2934a3/">View details</a></p>'
       isHtmlContent: true
 ---
 <Notice :data="$frontmatter.notices"/>
