@@ -6,7 +6,7 @@ permalink: /pages/52wc9d/
 
 | Company Name                             | Company Name                                                               | 
 | -----------------------------------------| ---------------------------------------------------------------------------| 
-|[Chengdu Anjiao Network Technology Co., Ltd.](unknow) |[Century Kaiyuan Zhiyin Internet Technology Group Co., Ltd.](www.jiansheji.cn) |
+|[HundSun](https://www.hundsun.com/) |[Century Kaiyuan Zhiyin Internet Technology Group Co., Ltd.](www.jiansheji.cn) |
 |[Hangzhou Yicang Network Technology Co., Ltd.](unknow) |[Hangzhou Zhiyou Network Technology Co., Ltd.](unknow) |
 |[Chengdu Mengning Technology](http://www.mengning.xyz/) |[Fuhang Baiyue Electronic Commerce Co., Ltd.](http://officialpc.fuhangbeiyue.com/) |
 |[Donghua Software Co., Ltd.](http://www.dhcc.com.cn/) |[Donghua Cloud Technology Co., Ltd.](http://dhcclouds.com/) |
@@ -39,6 +39,9 @@ permalink: /pages/52wc9d/
 |[Suzhou Zhiyi information technology]()                                                       |[Hebei zhewei technology co., ltd]()                                                            |
 |[Intelligent Chuanghe Information Technology Co., Ltd.]()                                              |[Shanghai Qiming Software Company Limited]()
 |[Ningbo Qishan technology co., ltd](https://www.bgniao.cn/)                              |[Xiangxun Technology (Shanghai) Co., Ltd.](https://www.anycase.cn/)
+|[Chengdu Anjiao Network Technology Co., Ltd.]()                              |                                                                             |
+
+
 :::tip Registration
 
 In order to better establish an open source mutual trust system, if your company uses [Easy-Es](https://easy-es.cn/) in your project, it is recommended that you [register](https://gitee.com /dromara/easy-es/issues/I71MUT)
