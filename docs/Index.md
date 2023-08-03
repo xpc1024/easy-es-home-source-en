@@ -82,6 +82,13 @@ notices: # 可选的
   link: https://www.mingdao.com?s=utm_67&utm_source=easy-es&utm_medium=banner&utm_campaign=IT%E7%BD%91%E7%AB%99&utm_content=IT%E8%B5%8B%E8%83%BD%E4%B8%9A%E5%8A%A1
   bgColor: '#1E90FF'
   textColor: '#FFFFFF'
+
+- name: Fast Request
+  desc: IDEA Postman, born to simplify API debugging...
+  avatar: /img/sponsor/fastRequest-logo.svg
+  link: https://dromara.gitee.io/fast-request
+  bgColor: '#1E90FF'
+  textColor: '#FFFFFF'
 ```
 :::
 
