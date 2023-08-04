@@ -234,4 +234,40 @@ Code without bugs is not perfect!
 :::
 Workers, have you jerked the code today?
 
+:::note Personal introduction
+::: cardList
+```yaml
+- name: HongDa.Wu
+  desc: Easy-Es Community Developer <br/> <br/> Mail:406430593@qq.com
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+Flowers will reopen, and people will never be young again!
+
+:::note Personal introduction
+::: cardList
+```yaml
+- name: Elmer
+  desc: Easy-Es Community Developer <br/> <br/> Wechat：Elmer_cjw
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+Tata Kai!
+
+:::note Personal introduction
+::: cardList
+```yaml
+- name: bun
+  desc: Easy-Es Community Developer <br/> <br/> Mail:xxmmbbhh@sina.cn
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+On the code ~
+
 <br/>
