@@ -89,6 +89,13 @@ notices: # 可选的
   link: https://dromara.gitee.io/fast-request
   bgColor: '#1E90FF'
   textColor: '#FFFFFF'
+
+- name: MISBoot Low-code platform
+  desc: Build app quickly, making development easier...
+  avatar: /img/sponsor/mis-logo.png
+  link: https://www.misboot.com/?from=easy-es
+  bgColor: '#1E90FF'
+  textColor: '#FFFFFF'
 ```
 :::
 
@@ -291,6 +298,11 @@ If you would like to contribute, please see [Participate in development](/pages/
             <a href="https://www.mingdao.com?s=utm_68&utm_source=easy-es&utm_medium=referral&utm_campaign=friendLink&utm_content=website_footer
 " target="_blank">
           <img :src="$withBase('/img/external/md.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://www.misboot.com/?from=easy-es" target="_blank">
+          <img :src="$withBase('/img/sponsor/mis-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>

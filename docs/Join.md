@@ -15,7 +15,7 @@ You can add me on WeChat, note `EE` when adding friends, and I will add you to t
 The reply is slow, we mainly use WeChat groups.
 
 
-![WeChat](/img/wx.png) ![QQ group](/img/qq-group.png)
+![WeChat](/img/wx.png) ![QQ group](/img/qq-group.jpg)
 
 
 WeChat (left) | QQ group (right)
