@@ -302,7 +302,7 @@ If you would like to contribute, please see [Participate in development](/pages/
   </span>
   <span style="width: 150px;text-align: left">
       <a href="https://www.misboot.com/?from=easy-es" target="_blank">
-          <img :src="$withBase('/img/sponsor/mis-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+          <img :src="$withBase('/img/external/mis-friend.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>
