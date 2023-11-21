@@ -55,10 +55,10 @@ notices: # 可选的
 
 ::: cardList
 ```yaml
-- name: YunCheng low code platform
-  desc: Source code delivery, privatization deployment, customized development...
-  avatar: /img/sponsor/yc-logo.jpg
-  link: http://www.yunchengxc.com
+- name: Fast Request
+  desc: IDEA Postman, born to simplify API debugging...
+  avatar: /img/sponsor/fastRequest-logo.svg
+  link: https://dromara.gitee.io/fast-request
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
   
@@ -83,17 +83,17 @@ notices: # 可选的
   bgColor: '#1E90FF'
   textColor: '#FFFFFF'
 
-- name: Fast Request
-  desc: IDEA Postman, born to simplify API debugging...
-  avatar: /img/sponsor/fastRequest-logo.svg
-  link: https://dromara.gitee.io/fast-request
-  bgColor: '#1E90FF'
-  textColor: '#FFFFFF'
-
 - name: MISBoot Low-code platform
   desc: Build app quickly, making development easier...
   avatar: /img/sponsor/mis-logo.png
   link: https://www.misboot.com/?from=easy-es
+  bgColor: '#1E90FF'
+  textColor: '#FFFFFF'
+
+- name: YunCheng low code platform
+  desc: Source code delivery, privatization deployment, customized development...
+  avatar: /img/sponsor/yc-logo.jpg
+  link: http://www.yunchengxc.com
   bgColor: '#1E90FF'
   textColor: '#FFFFFF'
 ```
