@@ -55,13 +55,6 @@ notices: # 可选的
 
 ::: cardList
 ```yaml
-- name: Eoapi
-  desc: Powerful, open source, cross-platform API development and testing tools...
-  avatar: /img/sponsor/postcat-logo.png
-  link: https://postcat.com/?utm_source=sponsor&utm_campaign=s-easyes
-  bgColor: '#FFB6C1'
-  textColor: '#FFFFFF'
-  
 - name: AgileBPM
   desc: Fast, concise, reliable and powerful low code workflow development platform...
   avatar: /img/sponsor/agile-logo.png
