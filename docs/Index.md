@@ -91,7 +91,7 @@ notices: # 可选的
   textColor: '#FFFFFF'
 
 - name: YunCheng low code platform
-  desc: Source code delivery, privatization deployment, customized development...
+  desc: Source code delivery, private deployment,development...
   avatar: /img/sponsor/yc-logo.jpg
   link: http://www.yunchengxc.com
   bgColor: '#1E90FF'
