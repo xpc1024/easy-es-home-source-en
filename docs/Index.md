@@ -16,7 +16,7 @@ features: # 可选的
   - title: Lightweight and powerful
     details: A small body contains a lot of energy, almost zero learning cost, and you can get started in a few minutes. But it can complete complex ES functions.
   - title: Simple and efficient
-    details: Advanced design concept, simplicity is paramount, even a novice can easily control it and save 3-8 times the amount of code.
+    details: Advanced design concept, simplicity is paramount, even a novice can easily control it and save 3-80 times the amount of code.
   - title: Feature rich
     details: Automatic index hosting, automatic paging, fool-level CRUD, highlighting, weighting, aggregation, IP, GEO, parent-child, nested, everything.
 
@@ -31,25 +31,7 @@ notices: # 可选的
 ---
 <Notice :data="$frontmatter.notices"/>
 
-
 <br/>
-
-<p align="center">
-  <a class="become-sponsor" href="/pages/fb291d/">Be a sponsor</a>
-</p>
-
-<br/>
-
-<style>
-.become-sponsor{
-  padding: 8px 20px;
-  display: inline-block;
-  color:  #FF9797;
-  border-radius: 30px;
-  box-sizing: border-box;
-  border: 2px solid #FF9797;
-}
-</style>
 
 ## ⛵Sponsor
 
@@ -99,7 +81,46 @@ notices: # 可选的
 ```
 :::
 
-<br/>
+<style>
+  .page-wwads{
+    width:100%!important;
+    min-height: 0!important;
+    margin: 0;
+  }
+  .page-wwads .wwads-img img{
+    width:80px!important;
+  }
+  .page-wwads .wwads-poweredby{
+    width: 40px;
+    position: absolute;
+    right: 25px;
+    bottom: 3px;
+  }
+  .wwads-content .wwads-text, .page-wwads .wwads-text{
+    height: 100%;
+    padding-top: 5px;
+    display: block;
+  }
+</style>
+
+<style>
+.become-sponsor{
+  padding: 8px 20px;
+  display: inline-block;
+  color:  #FF9797;
+  border-radius: 30px;
+  box-sizing: border-box;
+  border: 2px solid #FF9797;
+}
+</style>
+
+<!-- AD -->
+<div class="wwads-cn wwads-horizontal page-wwads" data-id="174"></div>
+
+<p align="center">
+  <a class="become-sponsor" href="/pages/fb291d/">Become sponsor</a>
+</p>
+
 <br/>
 
 ## 🍬 Features
@@ -307,37 +328,17 @@ If you would like to contribute, please see [Participate in development](/pages/
   </span>
   <span style="width: 150px;text-align: left">
       <a href="http://www.yunchengxc.com" target="_blank">
-          <img :src="$withBase('/img/sponsor/yc.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+          <img :src="$withBase('/img/external/yc.jpg')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://gitee.com/dromara/Akali" target="_blank">
+          <img :src="$withBase('/img/external/akali.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>
 
 <br/>
-<br/>
-
-<!-- AD -->
-<div class="wwads-cn wwads-horizontal page-wwads" data-id="174"></div>
-<style>
-  .page-wwads{
-    width:100%!important;
-    min-height: 0;
-    margin: 0;
-  }
-  .page-wwads .wwads-img img{
-    width:80px!important;
-  }
-  .page-wwads .wwads-poweredby{
-    width: 40px;
-    position: absolute;
-    right: 25px;
-    bottom: 3px;
-  }
-  .wwads-content .wwads-text, .page-wwads .wwads-text{
-    height: 100%;
-    padding-top: 5px;
-    display: block;
-  }
-</style>
 
 <style lang="stylus">
 .action-button-easyes

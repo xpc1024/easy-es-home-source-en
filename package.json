@@ -2,8 +2,8 @@
   "name": "theme-vdoing-doc",
   "version": "1.0.0",
   "scripts": {
-    "start": "vuepress dev docs",
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider && node --max_old_space_size=4096 ./node_modules/vuepress/cli.js dev docs",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && node --max_old_space_size=4096 ./node_modules/vuepress/cli.js dev docs",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider && node --max_old_space_size=4096 ./node_modules/vuepress/cli.js dev docs",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && node --max_old_space_size=4096 ./node_modules/vuepress/cli.js build docs",
     "deploy": "bash deploy.sh",
     "updateTheme": "yarn remove vuepress-theme-vdoing && rm -rf node_modules && yarn && yarn add vuepress-theme-vdoing -D",
@@ -12,11 +12,12 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@mr-hope/vuepress-plugin-sitemap": "^1.30.0",
     "dayjs": "^1.9.7",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
     "patch-package": "^6.4.7",
-    "vuepress": "^1.9.9",
+    "vuepress": "1.9.2",
     "vuepress-plugin-baidu-tongji": "^1.0.1",
     "vuepress-plugin-demo-block": "^0.7.2",
     "vuepress-plugin-fulltext-search": "^2.2.1",
@@ -28,23 +29,7 @@
   },
   "dependencies": {
     "core-js": "2.x",
-    "element-ui": "^2.15.9"
-  },
-  "description": "Easy-Es home pages",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xpc1024/easy-es-home-source-en.git"
-  },
-  "author": "Laohan",
-  "bugs": {
-    "url": "https://github.com/xpc1024/easy-es-home-source-en/issues"
-  },
-  "homepage": "https://github.com/xpc1024/easy-es-home-source-en#readme",
-  "keywords": [
-    "easy-es"
-  ]
+    "element-ui": "^2.15.9",
+    "vue": "2.7.14"
+  }
 }
