@@ -40,7 +40,7 @@ notices: # 可选的
 - name: Fast Request
   desc: IDEA Postman, born to simplify API debugging...
   avatar: /img/sponsor/fastRequest-logo.svg
-  link: https://dromara.gitee.io/fast-request
+  link: https://api-buddy.cn/
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
   
