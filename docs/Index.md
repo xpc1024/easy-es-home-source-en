@@ -45,14 +45,14 @@ notices: # 可选的
   textColor: '#FFFFFF'
   
 - name: AgileBPM
-  desc: Fast, concise, reliable and powerful low code workflow development platform...
+  desc: Fast, concise, low code workflow platform...
   avatar: /img/sponsor/agile-logo.png
   link: https://www.tongzhouyun.com/
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
 
 - name: MaxKey
-  desc: Industry leading, secure, reliable identity management and single sign on products...
+  desc: Industry leading, secure, single sign on products...
   avatar: /img/sponsor/maxkey-logo.jpg
   link: http://maxkey.top/
   bgColor: '#FFB6C1'
