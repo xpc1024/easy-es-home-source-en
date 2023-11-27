@@ -33,7 +33,7 @@ module.exports = function advHtml() {
                 <div style="order: 9999;">
                   <br/> 
                   <span style='color: gray;font-size: smaller;'>adv display by random</span>
-                  <span style='color: #E01E5A;font-size: smaller;font-weight: bolder;float: right'>❤️<a href='/pages/fb599d/'>become sponsor</a></span>
+                  <span style='color: #E01E5A;font-size: smaller;font-weight: bolder;float: right'>❤️<a href='/pages/fb291d/'>become sponsor</a></span>
                   <br/>
                 </div>
                 <div style="order: 100000;background-color:var(--borderColor);width:100%;height:1px;margin: 30px 0px 0px 0px;position:relative;">
