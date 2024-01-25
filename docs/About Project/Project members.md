@@ -234,6 +234,8 @@ Code without bugs is not perfect!
 :::
 Workers, have you jerked the code today?
 
+<br/>
+
 :::note Personal introduction
 ::: cardList
 ```yaml
@@ -245,6 +247,8 @@ Workers, have you jerked the code today?
 ```
 :::
 Flowers will reopen, and people will never be young again!
+
+<br/>
 
 :::note Personal introduction
 ::: cardList
@@ -258,6 +262,8 @@ Flowers will reopen, and people will never be young again!
 :::
 Tata Kai!
 
+<br/>
+
 :::note Personal introduction
 ::: cardList
 ```yaml
@@ -269,5 +275,19 @@ Tata Kai!
 ```
 :::
 On the code ~
+
+<br/>
+
+:::note Personal introduction
+::: cardList
+```yaml
+- name: clerk
+   desc: Easy-Es community developer <br/> <br/> Mail: qiuduhan123@163.com
+   avatar: /img/members/member.jpg
+   bgColor: '#FFFCCC'
+   textColor: '#000000'
+```
+:::
+Because you persist, you believe!
 
 <br/>
