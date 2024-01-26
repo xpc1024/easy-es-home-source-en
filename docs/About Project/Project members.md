@@ -282,10 +282,10 @@ On the code ~
 ::: cardList
 ```yaml
 - name: clerk
-   desc: Easy-Es community developer <br/> <br/> Mail: qiuduhan123@163.com
-   avatar: /img/members/member.jpg
-   bgColor: '#FFFCCC'
-   textColor: '#000000'
+  desc: Easy-Es Community Developer <br/> <br/> Mail:qiuduhan123@163.com
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
 ```
 :::
 Because you persist, you believe!
