@@ -52,7 +52,7 @@ notices: # 可选的
   textColor: '#FFFFFF'
 
 - name: JNPF Low-code platform
-  desc: Dual-engine system, unlimited scenario, permanent use, full delivery
+  desc: Dual-engine system, unlimited scenario, permanent use
   avatar: /img/sponsor/jnpf-logo.png
   link: https://www.jnpfsoft.com/index.html?from=easy-es
   bgColor: '#FFB6C1'
