@@ -51,10 +51,10 @@ notices: # 可选的
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
 
-- name: MaxKey
-  desc: Industry leading, secure, single sign on products...
-  avatar: /img/sponsor/maxkey-logo.jpg
-  link: http://maxkey.top/
+- name: JNPF Low-code platform
+  desc: Dual-engine system, unlimited scenario, permanent use, full delivery
+  avatar: /img/sponsor/jnpf-logo.png
+  link: https://www.jnpfsoft.com/index.html?from=easy-es
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
 
@@ -334,6 +334,11 @@ If you would like to contribute, please see [Participate in development](/pages/
   <span style="width: 150px;text-align: left">
       <a href="https://gitee.com/dromara/Akali" target="_blank">
           <img :src="$withBase('/img/external/akali.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://www.jnpfsoft.com/index.html?from=easy-es" target="_blank">
+          <img :src="$withBase('/img/sponsor/jnpf.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>
