@@ -55,5 +55,27 @@ module.exports = [
         }
       }, 3000);
     });
-  `]
+  `],
+
+  // 添加 dify embed 脚本
+  [
+    'script',
+    {
+      src: "https://udify.app/embed.min.js",
+      id: "0AoWRlNJ4DQNz5av",
+      defer: true
+    }
+  ],
+  // 添加自定义样式
+  [
+    'style',
+    {},
+    `
+      #dify-chatbot-bubble-button {
+        background-color: #FFB6C1 !important;
+        width:35px !important; 
+        height:35px !important; 
+      }
+      `
+  ]
 ];

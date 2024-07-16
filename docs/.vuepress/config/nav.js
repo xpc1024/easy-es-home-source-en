@@ -40,12 +40,17 @@ module.exports = [
     {text: 'Customer', link: '/pages/52wc9d/'},
     {
         text: '💫Recommend', items: [
+            {text: 'Doc-Apis', link: 'https://www.doc-apis.com/'},
             {text: 'Fitness plan automatic generation system', link: 'https://github.com/xpc1024/plan-all'},
             {text: 'Vuepress-theme-vdoing', link: 'https://doc.xugaoyi.com/'}
         ]
     },
-    {text: 'Gitee', link: 'https://gitee.com/dromara/easy-es'},
-    {text: 'Github', link: 'https://github.com/dromara/easy-es'},
+    {
+        text: '🌟Source Code', items: [
+            {text: 'Gitee', link: 'https://gitee.com/dromara/easy-es'},
+            {text: 'Github', link: 'https://github.com/dromara/easy-es'},
+        ]
+    },
     {
         text: '💫Language', items: [
             {text: '简体中文', link: 'https://easy-es.cn', target: '_self', rel: ''},

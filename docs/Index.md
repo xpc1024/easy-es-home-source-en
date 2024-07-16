@@ -6,8 +6,6 @@ tagline: 🚀Easier to use elasticsearch framework
 actions:
 - actionText: 🚀Quick Start →
   actionLink: /pages/4ad5f3/
-- actionText: 💘Support for Love
-  actionLink: https://afdian.net/a/easy-es
   actionClass: action-button-easyes
 bannerBg: /img/back.png # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 defaultMode: light
@@ -308,6 +306,11 @@ If you would like to contribute, please see [Participate in development](/pages/
   <span style="width: 150px;text-align: left">
       <a href="https://www.oschina.net" target="_blank">
           <img :src="$withBase('/img/external/oschina-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://doc-apis.com/" target="_blank">
+          <img :src="$withBase('/img/external/doc-apis.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
   <span style="width: 150px;text-align: left">
