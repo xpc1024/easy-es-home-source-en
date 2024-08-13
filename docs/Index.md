@@ -35,13 +35,7 @@ notices: # 可选的
 
 ::: cardList
 ```yaml
-- name: Fast Request
-  desc: IDEA Postman, born to simplify API debugging...
-  avatar: /img/sponsor/fastRequest-logo.svg
-  link: https://api-buddy.cn/
-  bgColor: '#FFB6C1'
-  textColor: '#FFFFFF'
-  
+
 - name: AgileBPM
   desc: Fast, concise, low code workflow platform...
   avatar: /img/sponsor/agile-logo.png
@@ -55,18 +49,18 @@ notices: # 可选的
   link: https://www.jnpfsoft.com/index.html?from=easy-es
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
+  
+- name: MISBoot Low-code platform
+  desc: Build app quickly, making development easier...
+  avatar: /img/sponsor/mis-logo.png
+  link: https://www.misboot.com/?from=easy-es
+  bgColor: '#1E90FF'
+  textColor: '#FFFFFF'  
 
 - name: MingDao Cloud
   desc: Quickly respond to business needs, from "IT backstabber" to "IT hero"
   avatar: /img/sponsor/mingdao-logo.jpg
   link: https://www.mingdao.com?s=utm_67&utm_source=easy-es&utm_medium=banner&utm_campaign=IT%E7%BD%91%E7%AB%99&utm_content=IT%E8%B5%8B%E8%83%BD%E4%B8%9A%E5%8A%A1
-  bgColor: '#1E90FF'
-  textColor: '#FFFFFF'
-
-- name: MISBoot Low-code platform
-  desc: Build app quickly, making development easier...
-  avatar: /img/sponsor/mis-logo.png
-  link: https://www.misboot.com/?from=easy-es
   bgColor: '#1E90FF'
   textColor: '#FFFFFF'
 
@@ -76,6 +70,13 @@ notices: # 可选的
   link: http://www.yunchengxc.com
   bgColor: '#1E90FF'
   textColor: '#FFFFFF'
+  
+- name: FastBee
+  desc: An easy-to-use IoT platform, individual learning...
+  avatar: /img/sponsor/fxwl-logo.gif
+  link: https://fastbee.cn/
+  bgColor: '#1E90FF'
+  textColor: '#FFFFFF'  
 ```
 :::
 
@@ -342,6 +343,11 @@ If you would like to contribute, please see [Participate in development](/pages/
   <span style="width: 150px;text-align: left">
       <a href="https://www.jnpfsoft.com/index.html?from=easy-es" target="_blank">
           <img :src="$withBase('/img/sponsor/jnpf.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://fastbee.cn/" target="_blank">
+          <img :src="$withBase('/img/external/fxwl-friend.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>
