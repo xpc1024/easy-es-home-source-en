@@ -54,7 +54,7 @@ notices: # 可选的
   desc: Build app quickly, making development easier...
   avatar: /img/sponsor/mis-logo.png
   link: https://www.misboot.com/?from=easy-es
-  bgColor: '#1E90FF'
+  bgColor: '#FFB6C1'
   textColor: '#FFFFFF'  
 
 - name: MingDao Cloud
