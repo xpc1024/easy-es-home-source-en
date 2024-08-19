@@ -22,8 +22,7 @@ permalink: /pages/52wc9d/
 |[Guangzhou Difan Brand Management Co., Ltd. (Han Xiaoxiong stroller)]() | [Natural Resources Center](https://search.cgsi.cn/swzxDrill/map)                               |
 |[Hangzhou Faben (Outsourcing Ant)]() | [Shandong Hongke Information Technology Co., Ltd.](http://www.hongkexinxi.net/html/index.html) |
 |[Beijing Zongheng Shengshi Technology Co., Ltd.]() | [Hubei Zhongxuntai Technology Co., Ltd.]()                                                     |
-|[tany@ixxxk](https://www.ixxxk.com/) | [Wuhan Jishan Information Technology Co., Ltd.]()                                              |
-|[stream-query](https://stream.query.ac.cn/#/) | [Shanghai Cloudfame Technology Co., Ltd.](https://cloudfame.com/)                              |
+|[7·GAMES ](https://www.7games.com/)    | [Wuhan Jishan Information Technology Co., Ltd.]()                                              |
 |[Guangxi Tourism Development Group]() | [Guizhou Hongchuang Information Technology Co., Ltd.](https://macronovo.com/)                  |
 |[Shenzhen Dudu IOT Technology Co., Ltd.](http://duduhuandian.com/) | [Shanghai Shuxin Communication Information Technology Co., Ltd.]()                             |
 |[Shanghai Lianwei Digital Technology Group Co., Ltd.](https://lianwei.com.cn/) | [Peters Enterprise Management Consulting Baoding Co., Ltd.]()                                  |
