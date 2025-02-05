@@ -22,9 +22,9 @@ features: # 可选的
 
 postList: none
 notices: # 可选的
-    - id: Easy-Es-2.0.0
-      title: 🚀 Easy-Es v2.0.0 Official version published！
-      content: '<div><ul><li>2024-05</li><li>v2.0.0</li></ul></div><p style="text-align: right;"><a href="/pages/2934a3/">View details</a></p>'
+    - id: Easy-Es-2.1.0
+      title: 🚀 Easy-Es v2.1.0 published！
+      content: '<div><ul><li>2025-02</li><li>v2.1.0</li></ul></div><p style="text-align: right;"><a href="/pages/2r3423/">View details</a></p>'
       isHtmlContent: true
 ---
 <Notice :data="$frontmatter.notices"/>

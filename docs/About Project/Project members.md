@@ -305,3 +305,18 @@ Because you persist, you believe!
 Gardenia is not more sincere than other trees.
 
 <br/>
+
+
+:::note Personal introduction
+::: cardList
+```yaml
+- name: Ajie
+  desc: doc-apis developer <br/> <br/> Wechat：Master_ajie
+  avatar: /img/members/member.jpg
+  bgColor: '#FFFCCC'
+  textColor: '#000000'
+```
+:::
+Mojie
+
+<br/>
