@@ -197,6 +197,10 @@ This is inseparable from the support and opinions of the community partners and 
     <img class="no-zoom" src="https://img.shields.io/badge/Gitee-red?logo=gitee&logoColor=white&style=for-the-badge"/>
 </a>
 
+<a href='https://gitcode.com/dromara/easy-es' target="_blank">
+    <img class="no-zoom" src="https://img.shields.io/badge/Gitcode-green?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
+
 <a href="https://github.com/dromara/easy-es" target="_blank">
     <img class="no-zoom" src="https://img.shields.io/badge/Github-blue?logo=github&logoColor=white&style=for-the-badge"/>
 </a>

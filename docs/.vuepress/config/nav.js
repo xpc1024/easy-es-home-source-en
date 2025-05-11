@@ -48,6 +48,7 @@ module.exports = [
     {
         text: '🌟Source Code', items: [
             {text: 'Gitee', link: 'https://gitee.com/dromara/easy-es'},
+            {text: 'GitCode', link: 'https://gitcode.com/dromara/easy-es'},
             {text: 'Github', link: 'https://github.com/dromara/easy-es'},
         ]
     },
