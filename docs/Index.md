@@ -22,9 +22,9 @@ features: # 可选的
 
 postList: none
 notices: # 可选的
-    - id: Easy-Es-2.1.0
-      title: 🚀 Easy-Es v2.1.0 published！
-      content: '<div><ul><li>2025-02</li><li>v2.1.0</li></ul></div><p style="text-align: right;"><a href="/pages/2r3423/">View details</a></p>'
+    - id: Easy-Es-3.0.0
+      title: 🚀 Easy-Es v3.0.0 published！
+      content: '<div><ul><li>2025-02</li><li>v3.0.0</li></ul></div><p style="text-align: right;"><a href="/pages/5b3428/">View details</a></p>'
       isHtmlContent: true
 ---
 <Notice :data="$frontmatter.notices"/>
@@ -123,7 +123,7 @@ notices: # 可选的
 <br/>
 
 ## 🍬 Features
-- **Zero Intrusion**: For RestHighLevelClient officially provided by ES, only enhancements are made without changes. The introduction of EE will not affect existing projects, and the user experience is silky smooth.
+- **Zero Intrusion**: For ElasticsearchClient officially provided by ES, only enhancements are made without changes. The introduction of EE will not affect existing projects, and the user experience is silky smooth.
 - **Small loss**: Basic CURD will be automatically injected at startup, and the performance will be basically free of loss, and the object-oriented operation is directly performed.
 - **Automation**: The world's leading brother, you don't have to move, index me fully automatic mode, helping developers and operation and maintenance to eliminate indexing troubles.
 - **Powerful CRUD operations**: Built-in general-purpose Mapper, most CRUD operations can be implemented with only a small amount of configuration, and more powerful conditional constructors to meet various needs.
@@ -131,10 +131,10 @@ notices: # 可选的
 - **Support primary key automatic generation**: Support multiple primary key strategies, can be freely configured, and perfectly solve the primary key problem.
 - **Support ActiveRecord mode**: Support ActiveRecord form calls, entity classes can perform powerful CRUD operations only by inheriting the Model class.
 - **Support custom global general operation**: Support global general method injection ( Write once, use anywhere ).
-- **Built-in paging plug-in**: Based on RestHighLevelClient physical paging, developers do not need to care about specific operations, and do not need to configure additional plug-ins. Writing paging is equivalent to ordinary List query, which is easier to use than MP's PageHelper plug-in, and maintains the same Paginate return fields without worrying about naming effects.
+- **Built-in paging plug-in**: Based on ElasticsearchClient physical paging, developers do not need to care about specific operations, and do not need to configure additional plug-ins. Writing paging is equivalent to ordinary List query, which is easier to use than MP's PageHelper plug-in, and maintains the same Paginate return fields without worrying about naming effects.
 - **Full coverage of MySQL functions**: The functions supported in MySQL can be easily implemented through EE.
 - **Support ES high-level syntax**: support aggregation, nesting, parent-child type, highlight search, word segmentation query, weight query, Geo location query, IP query and other advanced syntax, everything.
-- **Good scalability**: The bottom layer still uses RestHighLevelClient, which can maintain its scalability. While using EE, developers can still use all the functions of RestHighLevelClient.
+- **Good scalability**: The bottom layer still uses ElasticsearchClient, which can maintain its scalability. While using EE, developers can still use all the functions of ElasticsearchClient.
 
 <br/>
 <br/>
@@ -235,9 +235,6 @@ If you would like to contribute, please see [Participate in development](/pages/
     </a>
     <a href="https://gitee.com/dromara/liteFlow" target="_blank" style="width:15%; height:40px; padding:10px 5px 10px 5px;display:inline-block">
         <img style="height:40px;" :src="$withBase('/img/link/lite-flow.png')" class="no-zoom" title="Lightweight, Fast, Stable, Programmable A component-based process engine">
-    </a>
-    <a href="https://hertzbeat.com/" target="_blank" style="width:15%; padding:10px 5px 10px 5px;display:inline-block">
-        <img style="height:40px;" :src="$withBase('/img/link/hertzbeat-logo.png')" class="no-zoom" title="Easy and friendly cloud monitoring system">
     </a>
     <a href="http://forest.dtflyx.com/" target="_blank" style="width:15%; height:40px; padding:10px 5px 10px 5px;display:inline-block">
         <img style="height:40px;" :src="$withBase('/img/link/forest-logo.png')" class="no-zoom" title="Forest can help you use a simpler way Write an HTTP client for Java" nf>

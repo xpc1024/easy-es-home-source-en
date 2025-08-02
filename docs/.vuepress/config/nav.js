@@ -2,20 +2,21 @@ module.exports = [
     {text: '💋Home', link: '/'},
     {
         text: '🔞Doc', link: '/pages/7ead0d/', items: [
-            {text: 'v2.1.0(current version)', link: '/pages/7ead0d/'},
+            {text: 'v3.0.0(current version)', link: '/pages/7ead0d/'},
             {
                 text: 'What\'s New', items: [
-                    {text: 'What\' s New In Easy-Es v2.1.0?', link: '/pages/2r3423/'},
+                    {text: 'What\' s New In Easy-Es v3.0.0?', link: '/pages/5b3428/'},
                 ]
             },
             {
                 text: 'history version', items: [
-                    {text: 'v1.x.x', link: '/pages/v1.x/4ad5f3/'}
+                    {text: 'v1.x.x', link: '/pages/v1.x/4ad5f3/'},
+                    {text: 'v2.x.x', link: '/pages/v2.x/7ead0d/'}
                 ]
             },
             {
                 text: 'Upgrade guide', items: [
-                    {text: 'Upgrade to 2.x.x instructions', link: '/pages/dfd970/'}
+                    {text: 'Upgrade to 3.x.x instructions', link: '/pages/aud910/'}
                 ]
             },
         ]
