@@ -22,9 +22,9 @@ features: # 可选的
 
 postList: none
 notices: # 可选的
-    - id: Easy-Es-3.0.0
-      title: 🚀 Easy-Es v3.0.0 published！
-      content: '<div><ul><li>2025-02</li><li>v3.0.0</li></ul></div><p style="text-align: right;"><a href="/pages/5b3428/">View details</a></p>'
+    - id: Easy-Es-3.0.1
+      title: 🚀 Easy-Es v3.0.1 published！
+      content: '<div><ul><li>2026-01</li><li>v3.0.1</li></ul></div><p style="text-align: right;"><a href="/pages/5b343a/">View details</a></p>'
       isHtmlContent: true
 ---
 <Notice :data="$frontmatter.notices"/>
@@ -50,12 +50,12 @@ notices: # 可选的
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
   
-- name: MISBoot Low-code platform
-  desc: Build app quickly, making development easier...
-  avatar: /img/sponsor/mis-logo.png
-  link: https://www.misboot.com/?from=easy-es
+- name: HZ AI
+  desc: Bringing together top models to improve efficiency ...
+  avatar: /img/sponsor/hz-logo.png
+  link: https://ai.haozcloud.com/
   bgColor: '#FFB6C1'
-  textColor: '#FFFFFF'  
+  textColor: '#FFFFFF'
 
 - name: MingDao Cloud
   desc: Quickly respond to business needs, from "IT backstabber" to "IT hero"
@@ -327,11 +327,6 @@ If you would like to contribute, please see [Participate in development](/pages/
       </a>
   </span>
   <span style="width: 150px;text-align: left">
-      <a href="https://www.misboot.com/?from=easy-es" target="_blank">
-          <img :src="$withBase('/img/external/mis-friend.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-      </a>
-  </span>
-  <span style="width: 150px;text-align: left">
       <a href="http://www.yunchengxc.com" target="_blank">
           <img :src="$withBase('/img/external/yc.jpg')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
@@ -349,6 +344,11 @@ If you would like to contribute, please see [Participate in development](/pages/
   <span style="width: 150px;text-align: left">
       <a href="https://fastbee.cn/" target="_blank">
           <img :src="$withBase('/img/external/fxwl-friend.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://ai.haozcloud.com/" target="_blank">
+          <img :src="$withBase('/img/sponsor/hz-ai-banner.jpg')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
 </div>
