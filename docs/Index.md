@@ -43,10 +43,10 @@ notices: # 可选的
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
 
-- name: JNPF Low-code platform
-  desc: Dual-engine system, unlimited scenario, permanent use
-  avatar: /img/sponsor/jnpf-logo.png
-  link: https://www.jnpfsoft.com/index.html?from=easy-es
+- name: Easysearch
+  desc: Enterprise-level distributed search database
+  avatar: /img/sponsor/easysearch-logo.png
+  link: https://easysearch.cn
   bgColor: '#FFB6C1'
   textColor: '#FFFFFF'
   
@@ -337,8 +337,8 @@ If you would like to contribute, please see [Participate in development](/pages/
       </a>
   </span>
   <span style="width: 150px;text-align: left">
-      <a href="https://www.jnpfsoft.com/index.html?from=easy-es" target="_blank">
-          <img :src="$withBase('/img/sponsor/jnpf.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      <a href="https://easysearch.cn" target="_blank">
+          <img :src="$withBase('/img/sponsor/easysearch-friend.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
   <span style="width: 150px;text-align: left">
