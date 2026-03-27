@@ -351,6 +351,11 @@ If you would like to contribute, please see [Participate in development](/pages/
           <img :src="$withBase('/img/sponsor/hz-ai-banner.jpg')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
       </a>
   </span>
+  <span style="width: 150px;text-align: left">
+      <a href="https://searchkit.cn/" target="_blank">
+          <img :src="$withBase('/img/sponsor/seaarchkit-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+      </a>
+  </span>
 </div>
 
 <br/>
